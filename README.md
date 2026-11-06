@@ -1,5 +1,5 @@
 # API de Cursos 
-API para gerenciamento de **professores* e *cursos*
+API para gerenciamento de **professores** e **cursos**
 
 ## Tecnologias
 - Javascript
